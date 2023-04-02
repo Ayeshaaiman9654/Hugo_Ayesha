@@ -18,7 +18,7 @@ role: Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Jamia Millia Univirsity
+  - name: Jamia Millia University
     url: https://www.jmi.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
