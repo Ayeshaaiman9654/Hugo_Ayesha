@@ -26,22 +26,22 @@ bio: My research interests include protein folding and dynamics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - protein structure
+  - protein expression and purification
+  - protein folding and its characterization 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Biosciences
+      institution: Jamia Millia University 
+      year: persuing
+    - course: M.Sc.Biochemistry
+      institution: Jamia Millia University 
+      year: 2020
+    - course: B.Sc.Biosciences
+      institution: Jamia Millia University 
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
