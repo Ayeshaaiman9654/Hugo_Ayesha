@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-04-14
 type: landing
 
 sections:
@@ -16,12 +16,8 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Spectroscopic techniques
+          description: 70%
           icon: chart-line
           icon_pack: fas
         - name: Photography
@@ -63,10 +59,10 @@ sections:
   #         description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
-  - block: accomplishments
+  - block: Publications
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Publications'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
