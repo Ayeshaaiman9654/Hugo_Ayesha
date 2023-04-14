@@ -7,8 +7,8 @@ first_name: Ayesha
 last_name: Aiman
 
 # Status emoji
-status:
-  icon: 🧪
+# status:
+#   icon: 🧪
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Ayesha Aiman is a Research Scholar of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ayesha Aiman is a Research Scholar of Protein folding and dynamics at the Department of Biosciences, Jamia Millia Islamia, New Delhi. Her Research interests focuses on characterizing the dynamics of folding and misfolding of proteins as well as mechanisms involved in aggregation so as to have a broad perspective on the therapeutic role of neurodegenerative diseases.
 {style="text-align: justify;"}
