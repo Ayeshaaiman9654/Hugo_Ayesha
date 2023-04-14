@@ -20,6 +20,10 @@ sections:
           description: 70%
           icon: chart-line
           icon_pack: fas
+        - name: Photography123
+          description: 10%
+          icon: chalkboard-teacher
+          icon_pack: fa
         - name: Photography
           description: 10%
           icon: camera-retro
