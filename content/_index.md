@@ -24,7 +24,7 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-  - block: education
+  - block: experience
     content:
       title: Education
       # Date format for experience
@@ -37,7 +37,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scholar
-          company: GenCoin
+          company: Jamia Millia Islamia
           company_url: ''
           company_logo: org-gc
           location: California
