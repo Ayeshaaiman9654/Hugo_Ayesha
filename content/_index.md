@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: Spectroscopic techniques
-          description: 70%
+        - name: Communication
+          description: 40%
           icon: chart-line
           icon_pack: fas
-        - name: Photography123
-          description: 10%
+        - name: Investigative 
+          description: 30%
           icon: chalkboard-teacher
           icon_pack: fa
-        - name: Photography
-          description: 10%
+        - name: Analytical thinking
+          description: 30%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -44,25 +44,25 @@ sections:
           company: Jamia Millia Islamia
           company_url: 'https://www.jmi.ac.in/'
           company_logo: cap2
-          location: Delhi
-          date_start: '2021-01-01'
+          location: New Delhi, India
+          date_start: '2021-09-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          #description: |2-
+              #Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              #* Analysing
+              #* Modelling
+              #* Deploying
         - title: M.Sc. Biochemistry 
           company: Jamia Millia Islamia
           company_url: 'https://www.jmi.ac.in/'
           company_logo: cap2
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+          location: New Delhi, India
+          date_start: '2018-08-01'
+          date_end: '2020-07-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
+    #design:
+      #columns: '2'
   # - block: Publications
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
