@@ -172,9 +172,9 @@ sections:
         #folders:
           #- publication
         #featured_only: true
-    design:
-      columns: '2'
-      view: card
+    # design:
+    #   columns: '2'
+    #   view: card
   - block: collection
     content:
       title: Publications
@@ -186,9 +186,9 @@ sections:
         folders:
           - publication
         exclude_featured: true
-    #design:
-      #columns: '2'
-      #view: citation
+    design:
+      columns: '2'
+      view: citation
   - #block: collection
     #id: talks
     #content:
@@ -196,9 +196,9 @@ sections:
       #filters:
         #folders:
           #- event
-    design:
-      columns: '2'
-      view: compact
+    # design:
+    #   columns: '2'
+    #   view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -214,7 +214,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: Ayesha2100384@st.jmi.ac.in
       #phone: 888888888
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
         street: Ramanujan Block
         city: Jamia Millia Islamia
