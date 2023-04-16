@@ -210,7 +210,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        For further questions, please do not hesitate to get in touch with me using the information provided below.
+        For further questions, please do not hesitate to contact me via filling the details below.
       # Contact (add or remove contact options as necessary)
       email: Ayesha2100384@st.jmi.ac.in
       #phone: 888 888 88 88
