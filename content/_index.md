@@ -216,8 +216,8 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Lab no. 407
-        city: Department of Biosciences
+        street: Prof. Seemi Farhat Basir's lab 
+        city: Lab No. 407, Department of Biosciences
         region: Jamia Millia Islamia, New Delhi
         postcode: '110025'
         country: India
