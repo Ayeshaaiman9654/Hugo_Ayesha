@@ -218,7 +218,7 @@ sections:
       address:
         street: Lab 407
         city: Department of Biosciences
-        region: Jamia Millia Islamia, New Delhi
+        region: Jamia Millia Islamia New Delhi
         postcode: '110025'
         country: India
       #   country_code: US
