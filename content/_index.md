@@ -17,15 +17,15 @@ sections:
       title: Skills
       items:
         - name: Communication
-          description: 70%
+          description: 60%
           icon: chart-line
           icon_pack: fas
         - name: Investigative 
-          description: 30%
+          description: 40%
           icon: chalkboard-teacher
           icon_pack: fa
         - name: Analytical thinking
-          description: 100%
+          description: 80%
           icon: camera-retro
           icon_pack: fas
   - block: experience
