@@ -8,29 +8,29 @@ last_name: Aiman
 
 # Status emoji
 # status:
-#   icon: 🧪
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Scholar
+role: PMRF Research Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Jamia Millia University
     url: https://www.jmi.ac.in/
 
-# Short bio (displayed in user profile at end of posts)
+Short bio (displayed in user profile at end of posts)
 bio: My research interests include protein folding and dynamics.
 
-# Interests to show in About widget
+Interests to show in About widget
 interests:
   - protein structure
   - protein expression and purification
   - protein folding and its characterization 
 
-# Education to show in About widget
+Education to show in About widget
 education:
   courses:
     - course: PhD Biosciences
