@@ -222,9 +222,9 @@ sections:
         postcode: '110025'
         country: India
       #   country_code: US
-      # directions: Enter Building  and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday to Saturday from 10:00 a.m. to 6:00 p.m.'
+      # # directions: Enter Building  and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday to Saturday from 10:00 a.m. to 6:00 p.m.'
         # - 'Wednesday 09:00 to 10:00'
 #       contact_links:
 #         - icon: twitter
