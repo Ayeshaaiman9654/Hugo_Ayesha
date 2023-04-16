@@ -17,7 +17,7 @@ sections:
       title: Skills
       items:
         - name: Communication
-          description: 40%
+          description: 70%
           icon: chart-line
           icon_pack: fas
         - name: Investigative 
@@ -25,7 +25,7 @@ sections:
           icon: chalkboard-teacher
           icon_pack: fa
         - name: Analytical thinking
-          description: 30%
+          description: 100%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -129,55 +129,55 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
+  - #block: portfolio
+    #id: projects
+    #content:
+      #title: Projects
+      #filters:
+        #folders:
+         # - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+      #default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
+      #buttons:
+        #- name: All
+         # tag: '*'
+        - #name: Deep Learning
+          #tag: Deep Learning
+        - #name: Other
+          #tag: Demo
+    #design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+      #columns: '1'
+      #view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+      #flip_alt_rows: false
+  - #block: markdown
+    #content:
+      #title: Gallery
+      #subtitle: ''
+      #text: |-
+       # {{< gallery album="demo" >}}
+    #design:
+      #columns: '1'
+  - #block: collection
+    #id: featured
+    #content:
+      #title: Featured Publications
+      #filters:
+        #folders:
+          #- publication
+        #featured_only: true
+    # design:
+    #   columns: '2'
+    #   view: card
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -212,33 +212,33 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: Ayesha2100384@st.jmi.ac.in
+      #phone: 888888888
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Ramanujan Block
+        city: Jamia Millia Islamia
+        region: New Delhi
+        postcode: '110025'
+        country: India
+        #country_code: US
+      directions: Enter White Building and take the lift to Lab 407 on Floor 4
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Saturday from 9:00 a.m. to 6:00 p.m.'
+        #- 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
+        - icon: Gmail
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        #- icon: skype
+          #icon_pack: fab
+          #name: Skype Me
+          #link: 'skype:echo123?call'
+        #- icon: video
+          #icon_pack: fas
+          #name: Zoom Me
+          #link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
