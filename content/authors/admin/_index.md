@@ -21,16 +21,16 @@ organizations:
   - name: Jamia Millia University
     url: https://www.jmi.ac.in/
 
-Short bio (displayed in user profile at end of posts)
+#Short bio (displayed in user profile at end of posts)
 bio: My research interests include protein folding and dynamics.
 
-Interests to show in About widget
+#Interests to show in About widget
 interests:
   - protein structure
   - protein expression and purification
   - protein folding and its characterization 
 
-Education to show in About widget
+#Education to show in About widget
 education:
   courses:
     - course: PhD Biosciences
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Ayesha Aiman is a Research Scholar of Protein folding and dynamics at the Department of Biosciences, Jamia Millia Islamia, New Delhi. Her Research interests focuses on characterizing the dynamics of folding and misfolding of proteins as well as mechanisms involved in aggregation so as to have a broad perspective on the therapeutic role of neurodegenerative diseases.
+Ayesha Aiman is a research scholar at the Department of Biosciences, Jamia Millia Islamia, New Delhi. Her Research interests focuses on elucidating the dynamics of folding and misfolding of proteins as well as the mechanisms involved in aggregation of different proteins that are invloved in neurodegenerative diseases so as to have a broad perspective on the therapeutic aspect of such diseases.
 {style="text-align: justify;"}
