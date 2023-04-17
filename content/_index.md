@@ -21,11 +21,11 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Investigative 
-          description: 30%
+          description: 70%
           icon: chalkboard-teacher
           icon_pack: fa
         - name: Analytical thinking
-          description: 50%
+          description: 80%
           icon: camera-retro
           icon_pack: fas
   - block: experience
