@@ -169,9 +169,9 @@ sections:
     content:
       title: Seminars & conferences
       text: |-
-            ● “Understand & Explore The World of Fluorescence”, Theory and skill development, 25th -27th May 2022, IIT Delhi
-            ● Poster presentation in National seminar on Biophysics, Biophysika 2023, JMI Delhi
-            ● Poster presentation in NCIACS-2023, JMI Delhi
+            ● “Understand & Explore The World of Fluorescence”, Theory and skill development, 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
+            ● Poster presentation in National seminar on Biophysics, Biophysika 2023, JMI Delhi<br>
+            ● Poster presentation in NCIACS-2023, JMI Delhi<br>
 
       filters:
         folders:
