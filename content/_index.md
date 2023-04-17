@@ -195,7 +195,7 @@ sections:
       columns: '2'
       view: citation
 
-    - block: collection
+  - block: collection
     id: talks
     content:
       title: Teaching and Mentorship
