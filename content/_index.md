@@ -200,9 +200,8 @@ sections:
     content:
       title: Teaching and Mentorship
       text: |-
-            ● “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
-            ● Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
-            ● Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
+            ● Part Time Teaching at [Meera Bai Institute of Technology, Delhi](http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home)<br>
+            ● Meera Bai Institute of Technology(MBIT) started its glorious journey as Women’s Polytechnic at Dayal Singh Library, ITO on 10th September 1962 with the objective to train technical manpower to meet the needs of the state and to make young women self-dependent by achieving professional qualifications. It was renamed as Meera Bai Polytechnic in 1994 and rechristened as Meerabai Institute of Technology in 2010. <br>
 
       filters:
         folders:
