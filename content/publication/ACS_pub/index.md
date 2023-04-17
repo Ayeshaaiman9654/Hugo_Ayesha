@@ -1,3 +1,4 @@
+---
 title: 'Identification of Thermostable Xylose Reductase from Thermothelomyces thermophilus A Biochemical Characterization Approach to Meet Biofuel Challenges'
 
 # Authors
@@ -50,12 +51,12 @@ featured: false
 
 url_pdf: 'https://pubs.acs.org/doi/full/10.1021/acsomega.2c05690'
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-<!-- url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com' -->
+# <!-- url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com' -->
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
