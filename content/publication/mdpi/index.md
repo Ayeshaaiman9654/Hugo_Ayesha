@@ -1,7 +1,7 @@
 ---
 title: "Mitochondrial Dysfunction: Pathophysiology and Mitochondria-Targeted Drug Delivery Approaches"
 authors:
-- admin 1 2
+- admin
 - Tanzeel Khan 1 
 - Rashid Waseem 1
 - Zainy Zehra 1
