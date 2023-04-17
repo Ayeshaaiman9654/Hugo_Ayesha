@@ -40,8 +40,8 @@ abstract: Mitochondria are implicated in a wide range of functions apart from AT
 summary: Mitochondria are among the most important organelles in eukaryotic cells and have a distinctive structure composed of lipid-bilayer membranes [1]. A mitochondrion has a unique structure comprising four parts the outer mitochondrial membrane (OMM), the inter-membranous space (IMS), the inner mitochondrial membrane (IMM), and the matrix, with each part performing a specific role. The permeability of mitochondrial lipid membranes differs; the outer membrane is permeable to a broad range of small molecules, but the inner membrane is selective [2]. The passage of molecules through the IMM is controlled by a variety of specialized channel proteins [3]. 
 
 tags:
-- Source Themes
-featured: false
+- More Publications
+featured: True
 
 # links:
 # - name: ""
