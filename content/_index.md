@@ -194,14 +194,14 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Teaching and Mentorship  
-      text: |-
-            ● “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
-            ● Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
-            ● Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Teaching and Mentorship  
+  #     text: |-
+  #           ● “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
+  #           ● Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
+  #           ● Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
 
     #   filters:
     #     folders:
