@@ -59,7 +59,7 @@ url_pdf: https://pubs.acs.org/doi/full/10.1021/acsomega.2c05690
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**MDPI**](https://www.mdpi.com/journal/pharmaceutics)'
+  caption: 'Image credit: [**ACS**](https://pubs.acs.org/doi/full/10.1021/acsomega.2c05690)'
   focal_point: ""
   preview_only: false
 
@@ -75,7 +75,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
@@ -83,7 +83,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 {{% callout note %}}
-Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+Disclaimer/Publisher’s Note: ACS Publications All Right Reserved.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
