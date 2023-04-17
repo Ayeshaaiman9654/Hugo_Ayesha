@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 # external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ..
   focal_point: Smart
 
 links:
@@ -26,4 +26,4 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+ Multiple sclerosis (MS) is a metabolically dependent neurodegenerative disorder caused by persistent axonal loss of the brain and spinal cord. It is the most prevalent cause of non-traumatic neurological disability among young adults, especially females, in Western countries. DMTs and cost-effective pharmacotherapies can help patients address their condition by lowering their risk of relapse, postponing disability, and/or having fewer Magnetic resonance imaging (MRI) lesion loads. Interferon is one of the first-line therapies to treat MS patients in India. This project addresses the desire for developing novel therapeutic regimens and their essential role in improving patients’ health.
