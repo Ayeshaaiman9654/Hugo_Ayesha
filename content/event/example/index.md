@@ -1,18 +1,18 @@
 ---
-title: Example Talk
+title: Teaching & Mentorship
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Meera Bai Institute of Technology
+event_url: http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home
 
-location: Wowchemy HQ
+location: Delhi India
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ''
+  city: ''''
+  region: ''
+  postcode: ''
+  country: ''
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ''
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.

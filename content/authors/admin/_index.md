@@ -22,26 +22,26 @@ organizations:
     url: https://www.jmi.ac.in/
 
 #Short bio (displayed in user profile at end of posts)
-bio: My research interests include protein folding and dynamics.
+#bio: My research interests include protein folding and dynamics.
 
 #Interests to show in About widget
-interests:
-  - protein structure
-  - protein expression and purification
-  - protein folding and its characterization 
+#interests:
+ # - protein structure
+  #- protein expression and purification
+ # - protein folding and its characterization 
 
 #Education to show in About widget
-education:
-  courses:
-    - course: PhD Biosciences
-      institution: Jamia Millia University 
-      year: persuing
-    - course: M.Sc.Biochemistry
-      institution: Jamia Millia University 
-      year: 2020
-    - course: B.Sc.Biosciences
-      institution: Jamia Millia University 
-      year: 2018
+# education:
+#   courses:
+#     - course: PhD Biosciences
+#       institution: Jamia Millia University 
+#       year: persuing
+#     - course: M.Sc.Biochemistry
+#       institution: Jamia Millia University 
+#       year: 2020
+#     - course: B.Sc.Biosciences
+#       institution: Jamia Millia University 
+#       year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
