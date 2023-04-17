@@ -1,21 +1,21 @@
 ---
 title: "Identification of Thermostable Xylose Reductase from Thermothelomyces thermophilus A Biochemical Characterization Approach to Meet Biofuel Challenges"
 authors:
- - admin
-  - Nabeel Ali
-  - Anas Shamsi
-  - Imtaiyaz Hassan
-  - Mohammad Shahid
-  - Naseem A. Gaur
-  - Asimul Islam
+- admin
+- Nabeel Ali
+- Anas Shamsi
+- Imtaiyaz Hassan
+- Mohammad Shahid
+- Naseem A. Gaur
+- Asimul Islam
 author_notes:
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'  
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
 date: "2022-22-17T00:00:00Z"
 doi: ""
 
