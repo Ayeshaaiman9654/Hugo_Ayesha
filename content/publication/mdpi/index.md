@@ -41,7 +41,7 @@ summary: Mitochondria are among the most important organelles in eukaryotic cell
 
 tags:
 - More Publications
-featured: True
+featured: False
 
 # links:
 # - name: ""
