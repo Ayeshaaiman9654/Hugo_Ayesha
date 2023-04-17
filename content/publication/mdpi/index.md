@@ -2,16 +2,22 @@
 title: "Mitochondrial Dysfunction: Pathophysiology and Mitochondria-Targeted Drug Delivery Approaches"
 authors:
 - admin
-- Tanzeel Khan 1 
-- Rashid Waseem 1
-- Zainy Zehra 1
-- Priyanka Bhardwaj 1
-- Jaoud Ansari 1
-- Md. Imtaiyaz Hassan 1
-- Asimul Islam 1
+- Tanzeel Khan 
+- Rashid Waseem
+- Zainy Zehra
+- Priyanka Bhardwaj
+- Jaoud Ansari
+- Md. Imtaiyaz Hassan
+- Asimul Islam
 author_notes:
-- "1 Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "2 Department of Biosciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Department of Biosciences & Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -25,7 +31,7 @@ publishDate: "2022-11-27T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MDPI Journal pharmaceutics 1*(1)"
+publication: "*MDPI Journal pharmaceutics*"
 publication_short: "mdpi"
 
 abstract: Mitochondria are implicated in a wide range of functions apart from ATP generation, and, therefore, constitute one of the most important organelles of cell. Since healthy mitochondria are essential for proper cellular functioning and survival, mitochondrial dysfunction may lead to various pathologies. Mitochondria are considered a novel and promising therapeutic target for the diagnosis, treatment, and prevention of various human diseases including metabolic disorders, cancer, and neurodegenerative diseases. For mitochondria-targeted therapy, there is a need to develop an effective drug delivery approach, owing to the mitochondrial special bilayer structure through which therapeutic molecules undergo multiple difficulties in reaching the core. In recent years, various nanoformulations have been designed such as polymeric nanoparticles, liposomes, inorganic nanoparticles conjugate with mitochondriotropic moieties such as mitochondria-penetrating peptides (MPPs), triphenylphosphonium (TPP), dequalinium (DQA), and mitochondrial protein import machinery for overcoming barriers involved in targeting mitochondria. The current approaches used for mitochondria-targeted drug delivery have provided promising ways to overcome the challenges associated with targeted-drug delivery. Herein, we review the research from past years to the current scenario that has identified mitochondrial dysfunction as a major contributor to the pathophysiology of various diseases. Furthermore, we discuss the recent advancements in mitochondria-targeted drug delivery strategies for the pathologies associated with mitochondrial dysfunction
@@ -52,7 +58,7 @@ url_pdf: https://www.mdpi.com/1999-4923/14/12/2657
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**MDPI**](https://www.mdpi.com/journal/pharmaceutics'
+  caption: 'Image credit: [**MDPI**](https://www.mdpi.com/journal/pharmaceutics)'
   focal_point: ""
   preview_only: false
 
