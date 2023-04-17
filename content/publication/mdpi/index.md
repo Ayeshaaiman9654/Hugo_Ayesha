@@ -82,7 +82,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
