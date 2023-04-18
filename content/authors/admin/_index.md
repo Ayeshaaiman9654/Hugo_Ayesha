@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Ayesha Aiman is a research scholar at the Department of Biosciences, Jamia Millia Islamia, New Delhi. Her Research interests focuses on elucidating the dynamics of folding and misfolding of proteins as well as the mechanisms involved in aggregation of different proteins that are invloved in neurodegenerative diseases so as to have a broad perspective on the therapeutic aspect of such diseases.
+Hello👋, I am a research scholar at the Department of Biosciences, Jamia Millia Islamia, New Delhi. My main Research interests focuses on elucidating the dynamics of folding and misfolding of proteins as well as the mechanisms involved in aggregation of different proteins that are invloved in neurodegenerative diseases so as to have a broad perspective on the therapeutic aspect of such diseases.
 {style="text-align: justify;"}
