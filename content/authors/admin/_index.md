@@ -65,7 +65,7 @@ social:
     link: https://github.com/Ayeshaaiman9654
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ayesha-aiman-140553272
+    link: https://www.linkedin.com/in/ayeshaaiman9654
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
