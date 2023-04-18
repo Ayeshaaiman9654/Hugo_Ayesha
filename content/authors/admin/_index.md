@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/a
+    link: https://twitter.com/ayesha5648
     label: Follow me on Twitter
     display:
       header: true

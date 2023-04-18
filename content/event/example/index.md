@@ -38,7 +38,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/ayeshaaiman9654
+    url: https://twitter.com/ayesha5648
 url_code: ''
 url_pdf: ''
 url_slides: ''
