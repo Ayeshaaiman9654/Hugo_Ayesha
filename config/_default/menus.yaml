@@ -9,7 +9,7 @@ main:
   #   url: '#projects'
   #   weight: 30
   - name: Publications
-    url: '#Recent_Publications'
+    url: '#recentpublications'
     weight: 40
   - name: Talks
     url: '#talks'
