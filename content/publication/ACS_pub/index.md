@@ -1,26 +1,27 @@
 ---
 title: "Identification of Thermostable Xylose Reductase from Thermothelomyces thermophilus A Biochemical Characterization Approach to Meet Biofuel Challenges"
 authors:
-- admin
-- Nabeel Ali
-- Anas Shamsi
-- Imtaiyaz Hassan
-- Mohammad Shahid
-- Naseem A. Gaur
-- Asimul Islam
+- admin #1
+- Nabeel Ali #2
+- Anas Shamsi #3
+- Imtaiyaz Hassan #4
+- Mohammad Shahid #5
+- Naseem A. Gaur #6
+- Asimul Islam #7
 author_notes:
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-date: "2022-22-17T00:00:00Z"
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #1
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #2
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #3
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #4
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #5
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #6
+  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #7
+
+date: "2022-12-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-22-17T00:00:00Z"
+publishDate: "2022-12-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

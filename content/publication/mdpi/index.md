@@ -1,24 +1,24 @@
 ---
 title: "Mitochondrial Dysfunction: Pathophysiology and Mitochondria-Targeted Drug Delivery Approaches"
 authors:
-- admin
-- Tanzeel Khan 
-- Rashid Waseem
-- Zainy Zehra
-- Priyanka Bhardwaj
-- Jaoud Ansari
-- Md. Imtaiyaz Hassan
-- Asimul Islam
+- admin #1
+- Tanzeel Khan #2
+- Rashid Waseem #3
+- Zainy Zehra #4
+- Priyanka Bhardwaj #5
+- Jaoud Ansari #6
+- Md. Imtaiyaz Hassan #7
+- Asimul Islam #8
 author_notes:
-- "Department of Biosciences & Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India"
-date: "2015-09-01T00:00:00Z"
+- "Department of Biosciences & Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #1
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #2
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #3
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #4
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #5
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #6
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #7
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #8
+date: "2022-11-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
