@@ -10,7 +10,7 @@ author_notes:
 - "Department of Biosciences & Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #3
 
 date: "2021-09-27T00:00:00Z"
-doi: ""
+doi: "10.20959/wjpps20219-19992"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-27T00:00:00Z"
