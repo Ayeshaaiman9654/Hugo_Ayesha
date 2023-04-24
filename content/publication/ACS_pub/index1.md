@@ -12,7 +12,6 @@ authors:
 - Mohammad Shahid #5
 - Naseem A. Gaur #6
 - Asimul Islam #7
-
 # Author notes (optional)
 author_notes:
 - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #1
@@ -22,7 +21,6 @@ author_notes:
 - 'Department of Basic Medical Sciences, College of Medicine, Prince Sattam bin Abdulaziz University,Kingdom of Saudi Arabia' #5
 - 'International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi-110067, India' #6
 - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India' #7
-
 date: '2022-22-17T00:00:00Z'
 doi: 'doi.org/10.1021/acsomega.2c05690'
 
