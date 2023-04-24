@@ -63,10 +63,9 @@ sections:
           #description: Taught electronic engineering and researched semiconductor physics.
     #design:
       #columns: '2'
-  # - block: Publications
+  # - block: Ph.D. Research
   #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Publications'
+  #     title: 'Ph.D. Research'
   #     subtitle:
   #     # Date format: https://wowchemy.com/docs/customization/#date-format
   #     date_format: Jan 2006
@@ -129,10 +128,10 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
+  - block: portfolio
+    id: projects
+    content:
+      title: Ph.D. Research
   #     filters:
   #       folders:
   #         - project
