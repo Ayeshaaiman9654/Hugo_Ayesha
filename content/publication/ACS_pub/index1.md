@@ -5,23 +5,23 @@ title: 'Identification of Thermostable Xylose Reductase from Thermothelomyces th
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nabeel Ali #1
-  - admin #2
-  - Anas Shamsi #3
-  - Imtaiyaz Hassan #4
-  - Mohammad Shahid #5
-  - Naseem A. Gaur #6
-  - Asimul Islam #7
+- Nabeel Ali #1
+- admin #2
+- Anas Shamsi #3
+- Imtaiyaz Hassan #4
+- Mohammad Shahid #5
+- Naseem A. Gaur #6
+- Asimul Islam #7
 
 # Author notes (optional)
 author_notes:
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #1
-  - 'Department of Biosciences, Jamia Millia Islamia, New Delhi-110025, India' #2
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #3 
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #4
-  - 'Department of Basic Medical Sciences, College of Medicine, Prince Sattam bin Abdulaziz University,Kingdom of Saudi Arabia' #5
-  - 'International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi-110067, India' #6
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India' #7
+- 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #1
+- 'Department of Biosciences, Jamia Millia Islamia, New Delhi-110025, India' #2
+- 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #3 
+- 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #4
+- 'Department of Basic Medical Sciences, College of Medicine, Prince Sattam bin Abdulaziz University,Kingdom of Saudi Arabia' #5
+- 'International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi-110067, India' #6
+- 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India' #7
 
 date: '2022-22-17T00:00:00Z'
 doi: 'doi.org/10.1021/acsomega.2c05690'
@@ -42,7 +42,7 @@ publication_short: In *ACS*
 abstract: The constant rise in energy demands, costs, and concerns about global warming has created a demand for new renewable alternative fuels that can be produced sustainably. Lignocellulose biomass can act as an excellent energy source and various value-added compounds like xylitol. In this research study, we have explored the xylose reductase that was obtained from the genome of a thermophilic fungus Thermothelomyces thermophilus while searching for an enzyme to convert xylose to xylitol at higher temperatures. The recombinant thermostable TtXR histidine-tagged fusion protein was expressed in Escherichia coli and successfully purified for the first time. Further, it was characterized for its function and novel structure at varying temperatures and pH. The enzyme showed maximal activity at 7.0 pH and favored  d-xylose over other pentoses and hexoses. Biophysical approaches such as ultraviolet–visible (UV–visible), fluorescence spectrometry, and far-UV circular dichroism (CD) spectroscopy were used to investigate the structural integrity of pure TtXR. This research highlights the potential application of uncharacterized xylose reductase as an alternate source for the effective utilization of lignocellulose in fermentation industries at elevated temperatures. Moreover, this research would give environment-friendly and long-term value-added products, like xylitol, from lignocellulosic feedstock for both scientific and commercial purposes..
 
 # Summary. An optional shortened abstract.
-summary: The pentose sugar d-xylose is the predominant hemicellulosic compound, which comprises about one-third (25–35%) of the total carbohydrates present in the lignocellulosic biomass, which remains unutilized due to a lack of an optimized enzymatic method of xylose metabolism. Lignocellulose is renewable, and this low-cost carbohydrate is potentially attractive for producing useful chemicals (xylitol) and biofuel (bioethanol). The large-scale manufacturing of ethanol necessitates the efficient conversion of xylose from lignocellulosic feedstock. Thermostable organisms can be a potential source of thermostable enzymes for commercial and scientific interests. Therefore, T. thermophilus (a thermophile fungus) is explored as the alternative source of the thermostable enzyme xylose reductase. After heterologous expression in E. coli, purification of the native form of xylose reductase, which is thermostable, was done for the first time. Finally, the biochemical characterization of xylose reductase at different pH and temperature conditions was enumerated using various biophysical techniques. This study summarizes current information regarding yeast xylose reductases and the many ways used to provide an environmentally benign and long-term alternative source of XR for lignocellulose biomass consumption at higher temperatures in the fermentation sector. This study concludes that as far as its activity is concerned, xylose reductase works best around pH 7 and 45 °C. This information is very useful for industry as the temperature of fermenters containing heat-treated lignocellulose biomass is usually high and frequently affects the percentage yield of the final product.
+summary: The pentose sugar D-xylose is the predominant hemicellulosic compound, which comprises about one-third (25–35%) of the total carbohydrates present in the lignocellulosic biomass, which remains unutilized due to a lack of an optimized enzymatic method of xylose metabolism. Lignocellulose is renewable, and this low-cost carbohydrate is potentially attractive for producing useful chemicals (xylitol) and biofuel (bioethanol). The large-scale manufacturing of ethanol necessitates the efficient conversion of xylose from lignocellulosic feedstock. Thermostable organisms can be a potential source of thermostable enzymes for commercial and scientific interests. Therefore, T. thermophilus (a thermophile fungus) is explored as the alternative source of the thermostable enzyme xylose reductase. After heterologous expression in E. coli, purification of the native form of xylose reductase, which is thermostable, was done for the first time. Finally, the biochemical characterization of xylose reductase at different pH and temperature conditions was enumerated using various biophysical techniques. This study summarizes current information regarding yeast xylose reductases and the many ways used to provide an environmentally benign and long-term alternative source of XR for lignocellulose biomass consumption at higher temperatures in the fermentation sector. This study concludes that as far as its activity is concerned, xylose reductase works best around pH 7 and 45 °C. This information is very useful for industry as the temperature of fermenters containing heat-treated lignocellulose biomass is usually high and frequently affects the percentage yield of the final product.
 
 tags: [Carbohydrates,Cellulose,Peptides and proteins,Phosphates,Purification]
 
