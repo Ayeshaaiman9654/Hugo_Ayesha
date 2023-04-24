@@ -138,11 +138,10 @@ sections:
 
     design:
       columns: '1'
-      width: '45em'
-      # view: masonry
-      # flip_alt_rows: true
+      view: masonry
+      flip_alt_rows: true
       background: {}
-      spacing: {padding: [0, 0, 0, 0]}
+      spacing: {padding: [0, 0, 0, 0],width: 400em}
   #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   #     default_button_index: 0
   #     # Filter toolbar (optional).
