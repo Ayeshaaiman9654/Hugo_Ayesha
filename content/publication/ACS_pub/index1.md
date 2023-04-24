@@ -5,26 +5,26 @@ title: 'Identification of Thermostable Xylose Reductase from Thermothelomyces th
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Nabeel Ali
-  - Anas Shamsi
-  - Imtaiyaz Hassan
-  - Mohammad Shahid
-  - Naseem A. Gaur
-  - Asimul Islam*
+  - Nabeel Ali #1
+  - admin #2
+  - Anas Shamsi #3
+  - Imtaiyaz Hassan #4
+  - Mohammad Shahid #5
+  - Naseem A. Gaur #6
+  - Asimul Islam #7
 
 # Author notes (optional)
 author_notes:
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'  
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
-  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India'
+  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #1
+  - 'Department of Biosciences, Jamia Millia Islamia, New Delhi-110025, India' #2
+  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #3 
+  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #4
+  - 'Department of Basic Medical Sciences, College of Medicine, Prince Sattam bin Abdulaziz University,Kingdom of Saudi Arabia' #5
+  - 'International Centre for Genetic Engineering and Biotechnology, Aruna Asaf Ali Marg, New Delhi-110067, India' #6
+  - 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi110025, India' #7
 
 date: '2022-22-17T00:00:00Z'
-doi: ''
+doi: 'doi.org/10.1021/acsomega.2c05690'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-17T00:00:00Z'
@@ -33,7 +33,7 @@ publishDate: '2022-11-17T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [21']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ACS Publications*
