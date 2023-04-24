@@ -1,5 +1,5 @@
 ---
-title: "ROLE OF VASCULAR INFLAMMATION IN INDUCTION OF HYPERTENSION AND THERAPEUTIC ROLE OF PLANT DERIVED TERPENES"
+title: "Role of vascular inflammation in induction of hypertension and therapeutic role of plant-derived terpenes"
 authors:
 - Shahnawaz Ahmad Wani #1
 - admin #2
