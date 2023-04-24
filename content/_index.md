@@ -21,7 +21,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: Investigative 
-          description: 70%
+          description: 80%
           icon: chalkboard-teacher
           icon_pack: fa
         - name: Analytical thinking
