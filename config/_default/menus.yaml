@@ -12,7 +12,7 @@ main:
     url: '#recentpublications'
     weight: 40
   - name: Seminars/Conferences
-    url: '#seminars'
+    url: '#featured'
     weight: 50
   - name: Contact
     url: '#contact'
