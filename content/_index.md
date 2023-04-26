@@ -138,7 +138,7 @@ sections:
 
     design:
       columns: '1'
-      view: Card
+      view: compact
 
 
 
