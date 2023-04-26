@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello👋, I am a research scholar at the Department of Biosciences, Jamia Millia Islamia, New Delhi. My main research interest focuses on elucidating the dynamics of folding and misfolding of proteins as well as the mechanisms involved in aggregation of different proteins; which are involved in neurodegenerative diseases so that we can have a broader perspective on the therapeutic aspect of diseases.
+Hello👋, I am a research scholar at the Department of Biosciences, Jamia Millia Islamia, New Delhi. My primary research interests focus on the investigation of the dynamics of folding and misfolding of the rIFN-1b protein, as well as the processes involved in aggregation, which leads to neurodegenerative diseases. This is done in order to get a more comprehensive understanding of the treatments available for a variety of diseases.
 {style="text-align: justify;"}
