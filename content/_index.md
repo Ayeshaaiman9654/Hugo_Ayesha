@@ -41,7 +41,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD Research Scholar
-          id: 2100384
           company: Jamia Millia Islamia
           company_url: 'https://www.jmi.ac.in/'
           company_logo: cap2
