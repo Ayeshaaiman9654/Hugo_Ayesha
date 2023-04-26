@@ -1,8 +1,8 @@
 ---
 title: "Identification of Thermostable Xylose Reductase from Thermothelomyces thermophilus A Biochemical Characterization Approach to Meet Biofuel Challenges"
 authors:
-- admin #1
-- Nabeel Ali #2
+- Nabeel Ali #1
+- admin #2
 - Anas Shamsi #3
 - Imtaiyaz Hassan #4
 - Mohammad Shahid #5
@@ -10,7 +10,7 @@ authors:
 - Asimul Islam #7
 author_notes:
   - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #1
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #2
+  - "Department of Biosciences, Jamia Millia Islamia, New Delhi 110025, India" #2
   - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #3
   - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #4
   - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #5
