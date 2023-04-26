@@ -9,9 +9,9 @@ date: '2022-08-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
-image:
-  caption: ..
-  focal_point: Smart
+# image:
+#   caption: ..
+#   focal_point: Smart
 
 links:
   - icon: twitter
