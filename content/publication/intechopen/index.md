@@ -4,6 +4,19 @@ authors:
 - admin #1
 - Seemi Farhat Basir #2
 - Asimul Islam #3
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin #1
+- Seemi Farhat Basir #2
+- Asimul Islam #3
+# Author notes (optional)
+author_notes:
+- 'Department of Biosciences, Jamia Millia Islamia, New Delhi-110025, India' #1
+- 'Department of Biosciences, Jamia Millia Islamia, New Delhi-110025, India' #2
+- 'Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi-110025, India' #3 
+
 date: "2022-07-15T00:00:00Z"
 doi: "10.5772/intechopen.104718"
 
