@@ -12,22 +12,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Communication
-          description: 60%
-          icon: chart-line
-          icon_pack: fas
-        - name: Investigative 
-          description: 80%
-          icon: chalkboard-teacher
-          icon_pack: fa
-        - name: Analytical thinking
-          description: 80%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: Communication
+  #         description: 60%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Investigative 
+  #         description: 80%
+  #         icon: chalkboard-teacher
+  #         icon_pack: fa
+  #       - name: Analytical thinking
+  #         description: 80%
+  #         icon: camera-retro
+  #         icon_pack: fas
   - block: experience
     content:
       title: Education
@@ -41,6 +41,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD Research Scholar
+          id: 2100384
           company: Jamia Millia Islamia
           company_url: 'https://www.jmi.ac.in/'
           company_logo: cap2
