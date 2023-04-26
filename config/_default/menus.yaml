@@ -11,7 +11,7 @@ main:
   - name: Publications
     url: '#recentpublications'
     weight: 40
-  - name: Seminars  Conferences
+  - name: Seminars \t Conferences
     url: '#featured'
     weight: 50
   - name: Contact
