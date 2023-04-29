@@ -165,12 +165,12 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   - block: collection
-    id: publications
+    id: recentpublications
     content:
-      title: Publications
+      title: Recent Publications
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications][def].
@@ -180,7 +180,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
   - block: collection
@@ -200,7 +200,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
   # - block: collection
   #   id: talks
