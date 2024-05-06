@@ -1,28 +1,30 @@
 ---
-title: "Mitochondrial Dysfunction: Pathophysiology and Mitochondria-Targeted Drug Delivery Approaches"
+title: "Probing protein aggregation through spectroscopic insights and multimodal approaches: A comprehensive review for counteracting neurodegenerative disorders "
 authors:
-- Tanzeel Khan #2
-- Rashid Waseem #3
-- Zainy Zehra #4
+- Sania Bashir #2
+- Anis Ahmad Chaudhary #3
+- Nashrah Khan #4
 - admin #1
-- Priyanka Bhardwaj #5
-- Jaoud Ansari #6
-- Md. Imtaiyaz Hassan #7
-- Asimul Islam #8
+- Ishfaq Ahmad Ahanger #5
+- Neha Sami #6
+- Eman Abdullah Almugri #7
+- Seemi Farhat Basir #8
+- Asimul Islam #9
 author_notes:
 - "Department of Biosciences & Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #1
 - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #2
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #3
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #4
+- "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University, Riyadh, Saudi Arabia" #3
+- "Department of Biosciences, Jamia Millia Islamia, Jamia Nagar, New Delhi, 110025, India" #4
 - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #5
 - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #6
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #7
-- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #8
-date: "2022-11-27T00:00:00Z"
-doi: ""
+- "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University, Riyadh, Saudi Arabia" #7
+- "Department of Biosciences, Jamia Millia Islamia, New Delhi 110025, India" #8
+- "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #9
+date: "2024-04-15T00:00:00Z"
+doi: "https://doi.org/10.1016/j.heliyon.2024.e27949"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-11-27T00:00:00Z"
+publishDate: "2024-03-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,13 +33,13 @@ publishDate: "2022-11-27T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MDPI Journal pharmaceutics*"
-publication_short: "mdpi"
+publication: "*Science Direct*"
+publication_short: "science direct"
 
-abstract: Mitochondria are implicated in a wide range of functions apart from ATP generation, and, therefore, constitute one of the most important organelles of cell. Since healthy mitochondria are essential for proper cellular functioning and survival, mitochondrial dysfunction may lead to various pathologies. Mitochondria are considered a novel and promising therapeutic target for the diagnosis, treatment, and prevention of various human diseases including metabolic disorders, cancer, and neurodegenerative diseases. For mitochondria-targeted therapy, there is a need to develop an effective drug delivery approach, owing to the mitochondrial special bilayer structure through which therapeutic molecules undergo multiple difficulties in reaching the core. In recent years, various nanoformulations have been designed such as polymeric nanoparticles, liposomes, inorganic nanoparticles conjugate with mitochondriotropic moieties such as mitochondria-penetrating peptides (MPPs), triphenylphosphonium (TPP), dequalinium (DQA), and mitochondrial protein import machinery for overcoming barriers involved in targeting mitochondria. The current approaches used for mitochondria-targeted drug delivery have provided promising ways to overcome the challenges associated with targeted-drug delivery. Herein, we review the research from past years to the current scenario that has identified mitochondrial dysfunction as a major contributor to the pathophysiology of various diseases. Furthermore, we discuss the recent advancements in mitochondria-targeted drug delivery strategies for the pathologies associated with mitochondrial dysfunction
+abstract: Aberrant accumulation of protein misfolding can cause aggregation and fibrillation and is one of the primary characteristic features of neurodegenerative diseases. Because they are disordered, misfolded, and aggregated proteins pose a significant setback in drug designing. The structural study of intermediate steps in these kinds of aggregated proteins will allow us to determine the conformational changes as well as the probable pathways encompassing various neurodegenerative disorders. The analysis of protein aggregates involved in neurodegenerative diseases relies on a diverse toolkit of biophysical techniques, encompassing both morphological and non-morphological methods. Additionally, Thioflavin T (ThT) assays and Circular Dichroism (CD) spectroscopy facilitate investigations into aggregation kinetics and secondary structure alterations. The collective application of these biophysical techniques empowers researchers to comprehensively unravel the intricate nature of protein aggregates associated with neurodegeneration. Furthermore, the topics covered in this review have summed up a handful of well-established techniques used for the structural analysis of protein aggregation. This multifaceted approach advances our fundamental understanding of the underlying mechanisms driving neurodegenerative diseases and informs potential therapeutic strategies.
 
 # Summary. An optional shortened abstract.
-summary: Mitochondria are among the most important organelles in eukaryotic cells and have a distinctive structure composed of lipid-bilayer membranes [1]. A mitochondrion has a unique structure comprising four parts the outer mitochondrial membrane (OMM), the inter-membranous space (IMS), the inner mitochondrial membrane (IMM), and the matrix, with each part performing a specific role. The permeability of mitochondrial lipid membranes differs; the outer membrane is permeable to a broad range of small molecules, but the inner membrane is selective [2]. The passage of molecules through the IMM is controlled by a variety of specialized channel proteins [3]. 
+summary: Aggregates have a variety of sizes and other physicochemical characteristics, making them diverse. As a direct consequence of this, a single technique is not merely sufficient to adequately analyze all the properties of aggregate particles. The findings acquired with one approach are inextricably related to those procured with another since every technique measures a different prospect of the enormous characteristic of aggregates. Development in protein aggregation research is driven by numerous approaches, including the structural study of protein aggregation. Besides, using numerous biophysical studies, the structural properties of amyloid at the insoluble and solvable processes have been reviewed, however, further research on the intermediate stage of the aggregated proteins is still under consideration. Herein, a short description of protein aggregation's structural analysis strategies using various biophysical techniques has been discussed. Using Fluorescence spectroscopy, FTIR, NMR, and CD, structural modifications during protein aggregation can be understood which will help in developing therapeutics for many diseases induced by protein aggregation. Thus, along with other multidisciplinary methods, the insights obtained using these strategies will advance our level of awareness of protein aggregation and misfolding and related therapeutics for neurodegenerative diseases as well.
 
 tags:
 - More Publications
@@ -46,7 +48,7 @@ featured: False
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/1999-4923/14/12/2657
+url_pdf: https://www.sciencedirect.com/science/article/pii/S240584402403980X?via%3Dihub
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
@@ -58,7 +60,7 @@ url_pdf: https://www.mdpi.com/1999-4923/14/12/2657
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**MDPI**](https://www.mdpi.com/journal/pharmaceutics)'
+  caption: 'Image credit: [**science direct**](https://www.sciencedirect.com/science/article/pii/S240584402403980X?via%3Dihub)'
   focal_point: ""
   preview_only: false
 
@@ -82,6 +84,6 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 {{% callout note %}}
-Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of Science Direct and/or the editor(s). Science Direct and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
 {{% /callout %}}
 
