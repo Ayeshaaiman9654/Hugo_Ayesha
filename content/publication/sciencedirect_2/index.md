@@ -1,10 +1,10 @@
 ---
 title: "Probing protein aggregation through spectroscopic insights and multimodal approaches: A comprehensive review for counteracting neurodegenerative disorders "
 authors:
+- admin #1
 - Sania Bashir #2
 - Anis Ahmad Chaudhary #3
 - Nashrah Khan #4
-- admin #1
 - Ishfaq Ahmad Ahanger #5
 - Neha Sami #6
 - Eman Abdullah Almugri #7
