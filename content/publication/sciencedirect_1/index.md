@@ -37,10 +37,7 @@ publication_short: "sciencedirect"
 abstract: Amyloidosis of protein caused by fibrillation and aggregation are some of the most exciting new edges not only in protein sciences but also in molecular medicines. The present review discusses recent advancements in the field of neurodegenerative diseases and therapeutic applications with ongoing clinical trials, featuring new areas of protein misfolding resulting in aggregation. The endogenous accretion of protein fibrils having fibrillar morphology symbolizes the beginning of neuro-disorders. Prognostic amyloidosis is prominent in numerous degenerative infections such as Alzheimer's and Parkinson's disease, Amyotrophic lateral sclerosis (ALS), etc. However, the molecular basis determining the intracellular or extracellular evidence of aggregates, playing a significant role as a causative factor in neurodegeneration is still unclear. Structural conversions and protein self-assembly resulting in the formation of amyloid oligomers and fibrils are important events in the pathophysiology of the disease. This comprehensive review sheds light on the evolving landscape of potential treatment modalities, highlighting the ongoing clinical trials and the potential socio-economic impact of novel therapeutic interventions in the realm of neurodegenerative diseases. Furthermore, many drugs are undergoing different levels of clinical trials that would certainly help in treating these disorders and will surely improve the socio-impact of human life.
 
 # Summary. An optional shortened abstract.
-summary: Protein unfolding leading to aggregation and amyloid formation has been explained.
-Protein aggregation and misfolding leading to the neuro-degeneration is described.
-Prominent neurodegenerative diseases with their features, diagnosis, and treatment are briefly described. 
-Clinical trials and drugs for the treatment of neurodegenerative diseases are defined.
+summary: Protein unfolding leading to aggregation and amyloid formation has been explained. Protein aggregation and misfolding leading to the neuro-degeneration is described. Prominent neurodegenerative diseases with their features, diagnosis, and treatment are briefly described. Clinical trials and drugs for the treatment of neurodegenerative diseases are defined.
 
 tags:
 - More Publications
