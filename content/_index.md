@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2023-04-14
+date: 2024-05-13
 type: landing
 
 sections:
@@ -198,30 +198,40 @@ sections:
 
             - Teaching @ [Meera Bai Institute of Technology(MBIT), Delhi](http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home)<br>
             Medical Laboratory Techniques (MLT) Department<br>
-              - Taught Physical health and Hygiene to Undergraduate students averaging 60 students per semester.
-              - Developed quizzes, presentations, exams, and homework.
-              - Revised the syllabus to meet accreditation standards
-              - Duration: 2023-2024
+                - Taught Physical health and Hygiene to Undergraduate students averaging 60 students per semester.
+                - Developed quizzes, presentations, exams, and homework.
+                - Revised the syllabus to meet accreditation standards
+              - Duration: 2023
 
             - Teaching @ [Graphic Era University, Uttarakhand, U.P](https://geu.ac.in/)<br>.
-            Department of Microbiology
+              [Department of Microbiology](https://geu.ac.in/microbiology/)
               - Taught Microbiology and Biochemistry to Postgraduate students 
               - Incorporated practical along with theory sessions
               - Trained dissertation student
-            Duration: 2023-2024
+            - Duration: 2023
 
             - Teaching @ [Jamia Millia Islamia, Delhi](https://www.jmi.ac.in)<br>
-              Department of Biosciences and Centre for Interdisciplinary Research
-              in Basic Sciences (CIRBSc)
-              - Taught immunology to the postgraduate students
-              - Performed practical, presentations, and theory examinations.
-              - Trained dissertation students
+                [Department of Biosciences and Centre for Interdisciplinary Research in Basic Sciences (CIRBSc)](https://jmi.ac.in/cirbs)
+                - Taught immunology to the postgraduate students
+                - Performed practical, presentations, and theory examinations.
+                - Trained dissertation students
+              - Duration: 2023-2024
 
-              - Teaching @ Acharya Narendra Dev College, University of Delhi, New Delhi
-              Department of Zoology
+              - Teaching @ [Acharya Narendra Dev College, University of Delhi, New Delhi](https://www.andcollege.du.ac.in/)<br>
+                [Department of Zoology](https://www.andcollege.du.ac.in/departments/zoology/coursesoffered)
                 - Taught Microbiology and Biochemistry to the Undergraduate students
                 - Organized workshops, practical, and hands-on-training for the students
                 - Conducted practical exams, theory, and presentations.
+              - Duration: 2023
+
+            - Teaching @ [Chaudhary Charan Singh University, Ramgarh, Meerut](https://www.ccsuniversity.ac.in/ccsum/)<br>
+              [Department of Microbiology](https://www.ccsuniversity.ac.in/ccsum/dept-microbiology.php)
+              - Taught Microbiology and Biochemistry to the Undergraduate and Postgraduate students
+              - Organized workshops, practical, and hands-on-training for the students
+              - Advanced training in molecular biology techniques
+              - Conducted practical exams, theory, and presentations.
+            - Duration: 2024
+
 
       filters:
         folders:
