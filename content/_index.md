@@ -155,16 +155,16 @@ sections:
     content:
       title: Seminars & conferences
       text: |-
-            - “Exploring the Structure and Biological Functions of Interferon-beta: Implications for Therapy”, National Conference on Recent Advancements in Biophysics and Structural Biology, [Biophysika-2024](https://jmi.ac.in/upload/publication/pr4_English_2024March01.pdf), [JMI Delhi](https://www.jmi.ac.in/)<br>, India
-            - “Advancements in Clinical Investigation and Biophysical Characterization of Interferon-beta: A Versatile Approach to Autoimmune Disorders”, [INCD-2024](https://incd.puchd.ac.in/), [Punjab University, Chandigarh](https://puchd.ac.in/), India
-            - “Clinical Advancements and Characterization of Interferon-beta: A Multifaceted Approach to Autoimmune Disorders and Beyond”, [IISC-2023, Bangalore](https://iisc.ac.in/), India
-            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, [ICSBDD-2023, GBU, Greater Noida](https://data.gbu.ac.in/Events/-570049722_ICIAHP-22%20Final%20Brochure%200707023.pdf), India
-            - “Expression and Purification of Recombinant Human Interferon β-1b”, NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>, India
-            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>, India
+            - “Exploring the Structure and Biological Functions of Interferon-beta: Implications for Therapy”, National Conference on Recent Advancements in Biophysics and Structural Biology, [Biophysika-2024](https://jmi.ac.in/upload/publication/pr4_English_2024March01.pdf), [JMI Delhi](https://www.jmi.ac.in/), India <br>
+            - “Advancements in Clinical Investigation and Biophysical Characterization of Interferon-beta: A Versatile Approach to Autoimmune Disorders”, [INCD-2024](https://incd.puchd.ac.in/), [Punjab University, Chandigarh](https://puchd.ac.in/), India <br>
+            - “Clinical Advancements and Characterization of Interferon-beta: A Multifaceted Approach to Autoimmune Disorders and Beyond”, [IISC-2023, Bangalore](https://iisc.ac.in/), India <br>
+            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, [ICSBDD-2023, GBU, Greater Noida](https://data.gbu.ac.in/Events/-570049722_ICIAHP-22%20Final%20Brochure%200707023.pdf), India <br>
+            - “Expression and Purification of Recombinant Human Interferon β-1b”, NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/) India
+            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/), India <br>
             - “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
-            - Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>, India
+            - Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/), India <br>
             - INDO-SINGAPORE WORKSHOP on [“Cardiovascular Diseases: An Insight to New Advances and their Translational Application”](https://www.jmi.ac.in/upload/publication/pr1_English_2021October11.pdf) 24th – 29th SEPTEMBER, 2021
-            - Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>, India
+            - Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/), India
 
       filters:
         folders:
