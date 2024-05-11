@@ -154,17 +154,17 @@ sections:
     id: featured
     content:
       title: Seminars & conferences
-      # text: |-
-      #       - “Exploring the Structure and Biological Functions of Interferon-beta: Implications for Therapy”, National Conference on Recent Advancements in Biophysics and Structural Biology, Biophysika-2024, JMI Delhi, India
-      #       - “Advancements in Clinical Investigation and Biophysical Characterization of Interferon-beta: A Versatile Approach to Autoimmune Disorders”, INCD-2024, Punjab University, Chandigarh, India
-      #       - “Clinical Advancements and Characterization of Interferon-beta: A Multifaceted Approach to Autoimmune Disorders and Beyond”, IISC-2023, Bangalore, India
-      #       - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, ICSBDD-2023, GBU, Greater Noida, India
-      #       - “Expression and Purification of Recombinant Human Interferon β-1b”, NCIACS-2023, JMI Delhi, India
-      #       - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, National seminar on Biophysics, Biophysika 2023, JMI Delhi, India
-      #       - “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
-      #       - Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
-      #       - INDO-SINGAPORE WORKSHOP on [“Cardiovascular Diseases: An Insight to New Advances and their Translational Application”](https://www.jmi.ac.in/upload/publication/pr1_English_2021October11.pdf) 24th – 29th SEPTEMBER, 2021
-      #       - Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
+      text: |-
+            - “Exploring the Structure and Biological Functions of Interferon-beta: Implications for Therapy”, National Conference on Recent Advancements in Biophysics and Structural Biology, Biophysika-2024, JMI Delhi, India
+            - “Advancements in Clinical Investigation and Biophysical Characterization of Interferon-beta: A Versatile Approach to Autoimmune Disorders”, INCD-2024, Punjab University, Chandigarh, India
+            - “Clinical Advancements and Characterization of Interferon-beta: A Multifaceted Approach to Autoimmune Disorders and Beyond”, IISC-2023, Bangalore, India
+            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, ICSBDD-2023, GBU, Greater Noida, India
+            - “Expression and Purification of Recombinant Human Interferon β-1b”, NCIACS-2023, JMI Delhi, India
+            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, National seminar on Biophysics, Biophysika 2023, JMI Delhi, India
+            - “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
+            - Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
+            - INDO-SINGAPORE WORKSHOP on [“Cardiovascular Diseases: An Insight to New Advances and their Translational Application”](https://www.jmi.ac.in/upload/publication/pr1_English_2021October11.pdf) 24th – 29th SEPTEMBER, 2021
+            - Poster presentation in NCIACS-2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
 
       filters:
         folders:
@@ -193,38 +193,38 @@ sections:
     id: talks
     content:
       title: Teaching and Mentorship
-      # text: |-
-      #       - Teaching @ [Meera Bai Institute of Technology(MBIT), Delhi](http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home)<br>
-      #         Medical Laboratory Techniques (MLT) Department<br>
-      #           - Taught Physical health and Hygiene to Undergraduate students averaging 60 students per semester.
-      #           - Developed quizzes, presentations, exams, and homework.
-      #           - Revised the syllabus to meet accreditation standards
-      #         - Duration: 2023
-      #       - Teaching @ [Graphic Era University, Uttarakhand, U.P](https://geu.ac.in/)<br>.
-      #         [Department of Microbiology](https://geu.ac.in/microbiology/)
-      #           - Taught Microbiology and Biochemistry to Postgraduate students 
-      #           - Incorporated practical along with theory sessions
-      #           - Trained dissertation student
-      #         - Duration: 2023
-      #       - Teaching @ [Jamia Millia Islamia, Delhi](https://www.jmi.ac.in)<br>
-      #         [Department of Biosciences and Centre for Interdisciplinary Research in Basic Sciences (CIRBSc)](https://jmi.ac.in/cirbs)
-      #           - Taught immunology to the postgraduate students
-      #           - Performed practical, presentations, and theory examinations.
-      #           - Trained dissertation students
-      #         - Duration: 2023-2024
-      #       - Teaching @ [Acharya Narendra Dev College, University of Delhi, New Delhi](https://www.andcollege.du.ac.in/)<br>
-      #         [Department of Zoology](https://www.andcollege.du.ac.in/departments/zoology/coursesoffered)
-      #           - Taught Microbiology and Biochemistry to the Undergraduate students
-      #           - Organized workshops, practical, and hands-on-training for the students
-      #           - Conducted practical exams, theory, and presentations.
-      #         - Duration: 2023
-      #       - Teaching @ [Chaudhary Charan Singh University, Ramgarh, Meerut](https://www.ccsuniversity.ac.in/ccsum/)<br>
-      #         [Department of Microbiology](https://www.ccsuniversity.ac.in/ccsum/dept-microbiology.php)
-      #           - Taught Microbiology and Biochemistry to the Undergraduate and Postgraduate students
-      #           - Organized workshops, practical, and hands-on-training for the students
-      #           - Advanced training in molecular biology techniques
-      #           - Conducted practical exams, theory, and presentations.
-      #         - Duration: 2024
+      text: |-
+            - Teaching @ [Meera Bai Institute of Technology(MBIT), Delhi](http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home)<br>
+              - Medical Laboratory Techniques (MLT) Department<br>
+                - Taught Physical health and Hygiene to Undergraduate students averaging 60 students per semester.<br>
+                - Developed quizzes, presentations, exams, and homework.<br>
+                - Revised the syllabus to meet accreditation standards<br>
+              - Duration: 2023<br>
+            - Teaching @ [Graphic Era University, Uttarakhand, U.P](https://geu.ac.in/).<br>
+              - [Department of Microbiology](https://geu.ac.in/microbiology/)<br>
+                - Taught Microbiology and Biochemistry to Postgraduate students<br> 
+                - Incorporated practical along with theory sessions<br>
+                - Trained dissertation student<br>
+              - Duration: 2023
+            - Teaching @ [Jamia Millia Islamia, Delhi](https://www.jmi.ac.in)<br>
+              - [Department of Biosciences and Centre for Interdisciplinary Research in Basic Sciences (CIRBSc)](https://jmi.ac.in/cirbs)<br>
+                - Taught immunology to the postgraduate students
+                - Performed practical, presentations, and theory examinations.
+                - Trained dissertation students
+              - Duration: 2023-2024
+            - Teaching @ [Acharya Narendra Dev College, University of Delhi, New Delhi](https://www.andcollege.du.ac.in/)<br>
+              - [Department of Zoology](https://www.andcollege.du.ac.in/departments/zoology/coursesoffered)
+                - Taught Microbiology and Biochemistry to the Undergraduate students
+                - Organized workshops, practical, and hands-on-training for the students
+                - Conducted practical exams, theory, and presentations.
+              - Duration: 2023
+            - Teaching @ [Chaudhary Charan Singh University, Ramgarh, Meerut](https://www.ccsuniversity.ac.in/ccsum/)<br>
+              - [Department of Microbiology](https://www.ccsuniversity.ac.in/ccsum/dept-microbiology.php)
+                - Taught Microbiology and Biochemistry to the Undergraduate and Postgraduate students
+                - Organized workshops, practical, and hands-on-training for the students
+                - Advanced training in molecular biology techniques
+                - Conducted practical exams, theory, and presentations.
+              - Duration: 2024
 
 
       filters:
