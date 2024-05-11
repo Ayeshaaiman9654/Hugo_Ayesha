@@ -155,6 +155,12 @@ sections:
     content:
       title: Seminars & conferences
       text: |-
+            - “Exploring the Structure and Biological Functions of Interferon-beta: Implications for Therapy”, National Conference on Recent Advancements in Biophysics and Structural Biology, Biophysika-2024, JMI Delhi, India
+            - “Advancements in Clinical Investigation and Biophysical Characterization of Interferon-beta: A Versatile Approach to Autoimmune Disorders”, INCD-2024, Punjab University, Chandigarh, India
+            - “Clinical Advancements and Characterization of Interferon-beta: A Multifaceted Approach to Autoimmune Disorders and Beyond”, IISC-2023, Bangalore, India
+            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, ICSBDD-2023, GBU, Greater Noida, India
+            - “Expression and Purification of Recombinant Human Interferon β-1b”, NCIACS-2023, JMI Delhi, India
+            - “Expression, Purification and Characterization of Recombinant Human Interferon β-1b”, National seminar on Biophysics, Biophysika 2023, JMI Delhi, India
             - “Understand & Explore The World of Fluorescence”, Theory and skill development,<br> 25th -27th May 2022, [IIT Delhi](https://home.iitd.ac.in/)<br>
             - Poster presentation in National seminar on Biophysics, Biophysika 2023, [JMI Delhi](https://www.jmi.ac.in/)<br>
             - INDO-SINGAPORE WORKSHOP on [“Cardiovascular Diseases: An Insight to New Advances and their Translational Application”](https://www.jmi.ac.in/upload/publication/pr1_English_2021October11.pdf) 24th – 29th SEPTEMBER, 2021
@@ -191,7 +197,12 @@ sections:
             - Teaching @ [Meera Bai Institute of Technology(MBIT), Delhi](http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home)<br>
             Subject: Physical Health and Hygiene;
             Program: Diploma in Medical Lab Technology, Sem VI;
-            Joining: January 2023-ongoing
+            Duration: January 2023-2024
+            - Teaching @ Graphic Era University, Uttarakhand, U.P.
+            Department of Microbiology
+              - Taught Microbiology and Biochemistry to Postgraduate students 
+              - Incorporated practical along with theory sessions
+              - Trained dissertation student
             - Teaching @ [Jamia Millia Islamia, Delhi](https://www.jmi.ac.in)<br>
             Subject: Lab Course II, Immunology;
             Program: M.Sc. Biochemistry, Sem II;
