@@ -194,8 +194,6 @@ sections:
     content:
       title: Teaching and Mentorship
       text: |-
-
-
             - Teaching @ [Meera Bai Institute of Technology(MBIT), Delhi](http://revenue.delhi.gov.in/wps/wcm/connect/DOIT_MBIT/mbit/home)<br>
               Medical Laboratory Techniques (MLT) Department<br>
                 - Taught Physical health and Hygiene to Undergraduate students averaging 60 students per semester.
