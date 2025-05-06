@@ -192,48 +192,52 @@ sections:
       columns: '1'
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Teaching and Mentorship
-      text: |
-        - Teaching @ [Institute of Management Studies (IMS), Ghaziabad.](https://www.imsuc.ac.in/)
-          - [Department of Biosciences](https://www.imsuc.ac.in/bsc-biotechnology-in-delhi-ncr.php)
-            - Taught Microbiology and Biochemistry to the Undergraduate students
-            - Organized workshops, practical, and hands-on-training for the students
-            - Conducted practical exams, theory, and presentations.
-          - Duration: 2024
-        - Teaching @ [Acharya Narendra Dev College, University of Delhi, New Delhi](https://www.andcollege.du.ac.in/)
-          - [Department of Zoology](https://www.andcollege.du.ac.in/departments/zoology/coursesoffered)
-            - Summer training workshop, Tools and techniques in biology
-            - Practical and hands-on-training for the students
-            - Conducted practical exams, theory, and presentations
-          - Duration: 2024
-        - Teaching @ [Meera Bai Institute of Technology(MBIT), Delhi](https://mbit.delhi.gov.in/mbit/about-us)
-          - [Medical Laboratory Techniques (MLT) Department](https://mbit.delhi.gov.in/mbit/departments)
-            - Taught Physical health and Hygiene to Undergraduate students averaging 60 students per semester.
-            - Developed quizzes, presentations, exams, and homework.
-            - Revised the syllabus to meet accreditation standards
-          - Duration: 2023
-        - Teaching @ [Graphic Era University, Uttarakhand, U.P](https://geu.ac.in/)
-          - [Department of Microbiology](https://geu.ac.in/microbiology/)
-            - Taught Microbiology and Biochemistry to Postgraduate students
-            - Incorporated practical along with theory sessions
-            - Trained dissertation student
-          - Duration: 2023
-        - Teaching @ [Jamia Millia Islamia, Delhi](https://www.jmi.ac.in)
-          - [Department of Biosciences and Centre for Interdisciplinary Research in Basic Sciences (CIRBSc)](https://jmi.ac.in/cirbs)
-            - Taught immunology to the postgraduate students
-            - Performed practical, presentations, and theory examinations.
-            - Trained dissertation students
-          - Duration: 2023-2024
-        - Teaching @ [Chaudhary Charan Singh University, Ramgarh, Meerut](https://www.ccsuniversity.ac.in/ccsum/)
-          - [Department of Microbiology](https://www.ccsuniversity.ac.in/ccsum/dept-microbiology.php)
-            - Taught Microbiology and Biochemistry to the Undergraduate and Postgraduate students
-            - Organized workshops, practical, and hands-on-training for the students
-            - Advanced training in molecular biology techniques
-            - Conducted practical exams, theory, and presentations.
-          - Duration: 2024
+ - block: collection
+  id: talks
+  content:
+    title: Teaching and Mentorship
+    text: |
+      - **Institute of Management Studies (IMS), Ghaziabad**  
+        [Department of Biosciences](https://www.imsuc.ac.in/bsc-biotechnology-in-delhi-ncr.php)  
+        *Duration: 2025*  
+        - Taught undergraduate courses in Microbiology and Biochemistry  
+        - Organized workshops, practical sessions, and hands-on training  
+        - Conducted theory lectures, practical examinations, and student presentations
+
+      - **Acharya Narendra Dev College, University of Delhi, New Delhi**  
+        [Department of Zoology](https://www.andcollege.du.ac.in/departments/zoology/coursesoffered)  
+        *Duration: 2024*  
+        - Conducted a summer training workshop on "Tools and Techniques in Biology"  
+        - Delivered practical sessions and hands-on training for students  
+        - Evaluated students through theory exams and presentations
+
+      - **Chaudhary Charan Singh University, Ramgarh, Meerut**  
+        [Department of Microbiology](https://www.ccsuniversity.ac.in/ccsum/dept-microbiology.php)  
+        *Duration: 2024*  
+        - Taught Microbiology and Biochemistry to undergraduate and postgraduate students  
+        - Organized practical sessions, workshops, and molecular biology training  
+        - Conducted theory classes, lab practicals, and final assessments
+
+      - **Meera Bai Institute of Technology (MBIT), Delhi**  
+        [Medical Laboratory Techniques Department](https://mbit.delhi.gov.in/mbit/departments)  
+        *Duration: 2023*  
+        - Taught "Physical Health and Hygiene" to undergraduate students (approx. 60 per semester)  
+        - Developed academic materials including quizzes, assignments, and exams  
+        - Revised the curriculum to align with accreditation standards
+
+      - **Graphic Era University, Uttarakhand**  
+        [Department of Microbiology](https://geu.ac.in/microbiology/)  
+        *Duration: 2023*  
+        - Taught postgraduate-level courses in Microbiology and Biochemistry  
+        - Integrated practical components alongside theoretical instruction  
+        - Supervised and trained dissertation students
+
+      - **Jamia Millia Islamia, Delhi**  
+        [Department of Biosciences & Centre for Interdisciplinary Research in Basic Sciences (CIRBSc)](https://jmi.ac.in/cirbs)  
+        *Duration: 2023–2024*  
+        - Taught Immunology to postgraduate students  
+        - Conducted laboratory practicals, theoretical lectures, and examinations  
+        - Mentored students undertaking dissertation projects
 
 
       filters:
