@@ -155,6 +155,9 @@ sections:
     content:
       title: Seminars & conferences
       text: |-
+            - “International Interdisciplinary Science Congress”, 2024, JMI Delhi <br>
+            - “National conference on Interdisciplinary approach in Chemical Sciences”, 2024, JMI Delhi <br>
+            - “Advanced and challenges in medical technology translation”, 2024, Thiruvananthapuram, India <br>
             - “Exploring the Structure and Biological Functions of Interferon-beta: Implications for Therapy”, National Conference on Recent Advancements in Biophysics and Structural Biology, [Biophysika-2024](https://jmi.ac.in/upload/publication/pr4_English_2024March01.pdf), [JMI Delhi](https://www.jmi.ac.in/), India <br>
             - “Advancements in Clinical Investigation and Biophysical Characterization of Interferon-beta: A Versatile Approach to Autoimmune Disorders”, [INCD-2024](https://incd.puchd.ac.in/), [Punjab University, Chandigarh](https://puchd.ac.in/), India <br>
             - “Clinical Advancements and Characterization of Interferon-beta: A Multifaceted Approach to Autoimmune Disorders and Beyond”, [IISC-2023, Bangalore](https://iisc.ac.in/), India <br>
