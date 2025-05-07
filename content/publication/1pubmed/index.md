@@ -1,8 +1,8 @@
 ---
 title: "Unraveling the catalase dynamics: Biophysical and computational insights into co-solutes driven stabilization under extreme pH conditions"
 authors:
-- admin #1
-- Faiza Iram #2
+- Faiza Iram #1
+- admin #2
 - Deepanshi Vijh #3
 - Mohammad Shahid #4
 - Gourav Choudhir #5

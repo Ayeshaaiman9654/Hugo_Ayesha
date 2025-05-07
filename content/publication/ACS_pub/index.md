@@ -8,14 +8,6 @@ authors:
 - Mohammad Shahid #5
 - Naseem A. Gaur #6
 - Asimul Islam #7
-author_notes:
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #1
-  - "Department of Biosciences, Jamia Millia Islamia, New Delhi 110025, India" #2
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #3
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #4
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #5
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #6
-  - "Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, New Delhi 110025, India" #7
 
 date: "2022-12-17T00:00:00Z"
 doi: ""
