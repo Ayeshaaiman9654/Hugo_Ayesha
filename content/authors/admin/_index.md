@@ -54,7 +54,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ayesha5648
-    label: Follow me on Twitter
+    label: Follow me on X(Twitter)
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Hello👋, I am a research scholar at the Department of Biosciences, Jamia Millia Islamia, New Delhi. My primary research interests focus on the investigation of the dynamics of folding and misfolding of the rIFN-1b protein, as well as the processes involved in aggregation, which leads to neurodegenerative diseases. This is done in order to get a more comprehensive understanding of the treatments available for a variety of cognitive disorders.
+Hello👋, I am a research scholar from the Department of Biosciences, Jamia Millia Islamia, New Delhi. My primary research interests focus on the investigation of the dynamics of folding and misfolding of the rIFN-1b protein, as well as the processes involved in aggregation, which leads to neurodegenerative diseases. This is done in order to get a more comprehensive understanding of the treatments available for a variety of cognitive disorders.
 {style="text-align: justify;"}
